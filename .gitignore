@@ -1,0 +1,15 @@
+// do not include the .env file in version control
+.env
+
+# ignore node_modules
+node_modules/
+
+# ignore build output
+dist/
+
+# ignore logs
+logs/
+
+# ignore temporary files
+tmp/
+
