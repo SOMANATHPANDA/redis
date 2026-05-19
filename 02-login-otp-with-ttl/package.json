@@ -1,5 +1,5 @@
 {
-    "name" : "setup-local-redis",
+    "name" : "login-otp-with-ttl",
     "version" : "1.0.0",
     "type": "module",
     "private":true,
